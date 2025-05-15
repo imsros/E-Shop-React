@@ -1,0 +1,138 @@
+{
+    "categories": [
+    { "id": 1, "title": "Watch" },
+    { "id": 2, "title": "Phone" },
+    { "id": 3, "title": "Laptop" },
+    { "id": 4, "title": "Airpod"}
+  ],
+  "products": [
+    {
+        "id": 1,
+        "catId": 1,
+        "image" : "",
+        "name": "Apple Watch Series 9",
+        "color": "Gray",
+        "price": 519
+    },
+    {
+        "id": 2,
+        "catId": 1,
+        "image" : "",
+        "name": "Apple Watch Series 9",
+        "color": "Black",
+        "price": 519
+    },
+    {
+        "id": 3,
+        "catId": 1,
+        "image" : "",
+        "name": "Apple Watch Series 9",
+        "color": "Slategray",
+        "price": 519
+    },
+    {
+        "id": 4,
+        "catId": 1,
+        "image" : "",
+        "name": "Apple Watch Series 9",
+        "color": "Pink",
+        "price": 519
+    },
+    {
+        "id": 5,
+        "catId": 2,
+        "image" : "",
+        "name": "IPhone 16",
+        "color": "Black",
+        "price": 1229
+    },
+    {
+        "id": 6,
+        "catId": 2,
+        "image" : "",
+        "name": "IPhone 16",
+        "color": "Pink",
+        "price": 1229
+    },
+    {
+        "id": 7,
+        "catId": 2,
+        "image" : "",
+        "name": "IPhone 16",
+        "color": "Blue",
+        "price": 1229
+    },
+    {
+        "id": 8,
+        "catId": 2,
+        "image" : "",
+        "name": "IPhone 16",
+        "color": "Teal",
+        "price": 1229
+    },
+    {
+        "id": 9,
+        "catId": 3,
+        "image" : "",
+        "name": "Macbook Pro",
+        "color": " Midnight",
+        "price": 1600
+    },
+    {
+        "id": 10,
+        "catId": 3,
+        "image" : "",
+        "name": "Macbook Pro",
+        "color": "Sky Blue",
+        "price": 1600
+    },
+    {
+        "id": 11,
+        "catId": 3,
+        "image" : "",
+        "name": "Macbook Pro",
+        "color": "Starlight",
+        "price": 1600
+    },
+    {
+        "id": 12,
+        "catId": 3,
+        "image" : "",
+        "name": "Macbook Pro",
+        "color": "Silver",
+        "price": 1600
+    },
+    {
+        "id": 13,
+        "catId": 4,
+        "image" : "",
+        "name": "Airpods 3",
+        "color": "White",
+        "price": 219
+    },
+    {
+        "id": 14,
+        "catId": 4,
+        "image" : "",
+        "name": "Airpods 3 Pro",
+        "color": "White",
+        "price": 219
+    },
+    {
+        "id": 15,
+        "catId": 4,
+        "image" : "",
+        "name": "Airpods 2",
+        "color": "White",
+        "price": 219
+    },
+    {
+        "id": 16,
+        "catId": 4,
+        "image" : "",
+        "name": "Airpods 2 Pro",
+        "color": "White",
+        "price": 219
+    }
+  ]
+}
