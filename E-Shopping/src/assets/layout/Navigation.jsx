@@ -64,9 +64,7 @@ const Navigation = ({ onClick }) => {
           {/* Cart Icon on Left */}
           <Link to="/cart" className="relative">
             <IoCartOutline size={30} />
-            <span className="absolute -top-1 -right-2 bg-red-500 text-white rounded-full px-2 text-xs">
-              {cartItems.length}
-            </span>
+            
           </Link>
         </div>
         <Input placeholder="Search" className="search w-[200px]" />
@@ -80,9 +78,7 @@ const Navigation = ({ onClick }) => {
             size={60}
             className="text-black rounded-full p-3"
           />
-          <span className="absolute -top-1 -right-2 bg-red-500 text-white rounded-full px-2 text-xs">
-            {cartItems.length}
-          </span>
+         
         </Link>
       </div>
     </div>
